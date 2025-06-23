@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+transformers
+faiss-cpu
+numpy
+pandas
+httpx
+torch
